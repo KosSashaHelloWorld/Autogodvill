@@ -2,7 +2,7 @@
 
 Full rework of old project 'GodVillage'
 
-The purpose is to create godvill autoplayer. It uses godvill api. So that means refresh rate is 1 per minute. Supports Qt UI elements. Feel free to branch.
+The main purpose is to create godvill autoplayer. It uses godvill api. So that means refresh rate is 1 per minute. Supports Qt UI elements. Feel free to branch.
 
 ---
 
