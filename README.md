@@ -4,12 +4,20 @@ Full rework of old project 'GodVillage'
 
 The purpose is to create godvill autoplayer. It uses godvill api. So that means refresh rate is 1 per minute. Supports Qt UI elements. Feel free to branch.
 
-## Specs
+---
 
 Developing on **Linux** machine (Ubuntu 24.04LTS). That means all the release binaries will be posted just for Ubuntu. Will create **Windows** support in future.
 
-* Qt6.9-Desktop share lib (build with gcc 15.2.0)
-* Compile and build with Clang-20
+## Requirements
+
+* QMake version 3.1 (open-source)
+* Qt version 6.9.0 (open-source)
+* Clang 20.1.0
+
+You can find all the sources [here](https://code.qt.io/cgit/)
+
+## Supports
+
 * Langs: ru_RU, en_US
 
 ## Development steps:
@@ -21,3 +29,7 @@ Developing on **Linux** machine (Ubuntu 24.04LTS). That means all the release bi
 5. Actions
 6. Automatic actions
 7. Design
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
